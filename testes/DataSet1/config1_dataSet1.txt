@@ -1,0 +1,30 @@
+Runs: 30
+
+Population size: 100, 200, 300
+
+Max generations: 100, 500
+
+//--------------------------------
+Selection: tournament
+
+Tournament size: 1, 2, 4
+
+//--------------------------------
+
+Recombination: pmx, OneCute, Order1
+
+Recombination probability: 0.1, 0.2, 0.3
+
+//--------------------------------
+Mutation: inversion, insert, swap
+
+Mutation probability: 0.2, 0.3, 0.4
+
+//--------------------------------
+
+Problem file: ./DataSets/puzzle_1.txt
+
+//--------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage

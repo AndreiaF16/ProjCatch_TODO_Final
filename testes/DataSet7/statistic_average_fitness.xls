@@ -1,0 +1,800 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+200	250	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		92.93333333333334	3.957552554574888
+200	250	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		101.93333333333334	4.242116871982142
+200	250	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		118.73333333333333	5.452420461491291
+200	250	Tournament(2)	PMX	0.1	Insert	0.2		131.46666666666667	13.175060615504666
+200	250	Tournament(2)	PMX	0.1	Insert	0.4		123.86666666666666	11.68398714290441
+200	250	Tournament(2)	PMX	0.1	Insert	0.5		130.13333333333333	12.08782675072552
+200	250	Tournament(2)	PMX	0.1	Swap Mutation 	0.2		133.13333333333333	12.107114529161036
+200	250	Tournament(2)	PMX	0.1	Swap Mutation 	0.4		127.93333333333334	10.475155793060496
+200	250	Tournament(2)	PMX	0.1	Swap Mutation 	0.5		131.06666666666666	9.574038971208662
+200	250	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		95.0	4.58257569495584
+200	250	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		108.33333333333333	6.73465333595988
+200	250	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		133.26666666666668	7.420392322662072
+200	250	Tournament(2)	PMX	0.2	Insert	0.2		125.2	9.860358343724972
+200	250	Tournament(2)	PMX	0.2	Insert	0.4		124.46666666666667	12.507953025530954
+200	250	Tournament(2)	PMX	0.2	Insert	0.5		136.26666666666668	7.7413751290638855
+200	250	Tournament(2)	PMX	0.2	Swap Mutation 	0.2		129.86666666666667	10.455407957394847
+200	250	Tournament(2)	PMX	0.2	Swap Mutation 	0.4		130.8	12.64489356749725
+200	250	Tournament(2)	PMX	0.2	Swap Mutation 	0.5		132.0	9.82513782770162
+200	250	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		95.6	3.9463062898529984
+200	250	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		119.26666666666667	11.564120757277175
+200	250	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		149.4	10.068432516202973
+200	250	Tournament(2)	PMX	0.3	Insert	0.2		122.2	11.504781614615723
+200	250	Tournament(2)	PMX	0.3	Insert	0.4		124.53333333333333	11.289326325733033
+200	250	Tournament(2)	PMX	0.3	Insert	0.5		135.6	13.03738215031428
+200	250	Tournament(2)	PMX	0.3	Swap Mutation 	0.2		129.46666666666667	12.164794376487514
+200	250	Tournament(2)	PMX	0.3	Swap Mutation 	0.4		124.13333333333334	9.365658308712502
+200	250	Tournament(2)	PMX	0.3	Swap Mutation 	0.5		127.46666666666667	11.206347407707035
+200	250	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		94.0	2.780887148615228
+200	250	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		101.13333333333334	3.818667597765248
+200	250	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		115.0	5.053051883103253
+200	250	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.2		131.06666666666666	12.740835486297158
+200	250	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.4		122.6	10.722561882933263
+200	250	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.5		131.46666666666667	6.2808350471007355
+200	250	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		131.86666666666667	12.021462288571863
+200	250	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		130.0	9.93310961716756
+200	250	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		144.66666666666666	9.16999939415968
+200	250	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		93.86666666666666	4.030991055421593
+200	250	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		102.73333333333333	4.912116538610305
+200	250	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		120.86666666666666	5.672937706534616
+200	250	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.2		127.2	13.432299381217897
+200	250	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.4		121.26666666666667	8.966356871971781
+200	250	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.5		131.46666666666667	9.715051323704996
+200	250	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		132.46666666666667	12.32540285571046
+200	250	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		134.4	6.95509405639732
+200	250	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		146.26666666666668	9.132116707289473
+200	250	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		95.0	3.8901585229053754
+200	250	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		108.46666666666667	5.948295740985162
+200	250	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		127.86666666666666	7.553071487076557
+200	250	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.2		123.8	12.631706139710502
+200	250	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.4		121.4	11.053204663505209
+200	250	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.5		131.33333333333334	10.848450990297597
+200	250	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		126.13333333333334	12.13186804338978
+200	250	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		128.8	11.680182646973748
+200	250	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		140.13333333333333	13.932535862345937
+200	250	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		100.06666666666666	4.857525661852498
+200	250	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		107.86666666666666	4.030991055421593
+200	250	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		124.8	6.584831053261732
+200	250	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.2		120.66666666666667	9.9643810088178
+200	250	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.4		125.33333333333333	8.506206884126176
+200	250	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.5		133.86666666666667	7.744819056777391
+200	250	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		130.13333333333333	10.619897467594598
+200	250	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		133.6	8.444327484570138
+200	250	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		150.8	7.332121111929346
+200	250	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		104.93333333333334	5.507167047483566
+200	250	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		125.26666666666667	6.879599471545483
+200	250	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		142.46666666666667	6.505040780468295
+200	250	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.2		120.73333333333333	8.86165271768697
+200	250	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.4		130.93333333333334	8.512474506406594
+200	250	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.5		143.8	9.285831501091685
+200	250	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		124.73333333333333	9.14306051361116
+200	250	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.4		144.86666666666667	9.475348131980283
+200	250	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.5		160.46666666666667	8.011380793734762
+200	250	Tournament(2)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.2		115.73333333333333	6.4027771752229174
+200	250	Tournament(2)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.4		141.93333333333334	7.89064143287618
+200	250	Tournament(2)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.5		151.0	6.016643582596529
+200	250	Tournament(2)	Recombination 3 - order 1	0.3	Insert	0.2		122.73333333333333	7.890641432876178
+200	250	Tournament(2)	Recombination 3 - order 1	0.3	Insert	0.4		140.73333333333332	7.737068063693261
+200	250	Tournament(2)	Recombination 3 - order 1	0.3	Insert	0.5		149.53333333333333	9.116773308334235
+200	250	Tournament(2)	Recombination 3 - order 1	0.3	Swap Mutation 	0.2		131.06666666666666	7.243080989621903
+200	250	Tournament(2)	Recombination 3 - order 1	0.3	Swap Mutation 	0.4		151.8	7.161936423435586
+200	250	Tournament(2)	Recombination 3 - order 1	0.3	Swap Mutation 	0.5		166.0	8.594571930391103
+200	250	Tournament(4)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		91.73333333333333	3.172100600898753
+200	250	Tournament(4)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		90.73333333333333	3.4052247437659027
+200	250	Tournament(4)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		91.06666666666666	3.295788558482207
+200	250	Tournament(4)	PMX	0.1	Insert	0.2		127.93333333333334	11.690261854305154
+200	250	Tournament(4)	PMX	0.1	Insert	0.4		120.2	9.596527149616852
+200	250	Tournament(4)	PMX	0.1	Insert	0.5		119.6	12.092973166264779
+200	250	Tournament(4)	PMX	0.1	Swap Mutation 	0.2		131.0	12.803645314258487
+200	250	Tournament(4)	PMX	0.1	Swap Mutation 	0.4		125.46666666666667	12.627307269916608
+200	250	Tournament(4)	PMX	0.1	Swap Mutation 	0.5		123.0	12.085804345043265
+200	250	Tournament(4)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		92.2	3.4775470281986602
+200	250	Tournament(4)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		91.53333333333333	2.8134597128012246
+200	250	Tournament(4)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		90.46666666666667	3.0411985941218775
+200	250	Tournament(4)	PMX	0.2	Insert	0.2		128.33333333333334	15.984019797563096
+200	250	Tournament(4)	PMX	0.2	Insert	0.4		121.93333333333334	13.937798327649249
+200	250	Tournament(4)	PMX	0.2	Insert	0.5		120.73333333333333	11.177159249509192
+200	250	Tournament(4)	PMX	0.2	Swap Mutation 	0.2		130.2	10.77466163428501
+200	250	Tournament(4)	PMX	0.2	Swap Mutation 	0.4		121.2	9.346657156438338
+200	250	Tournament(4)	PMX	0.2	Swap Mutation 	0.5		121.4	10.265151403332213
+200	250	Tournament(4)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		93.0	4.697517074654084
+200	250	Tournament(4)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		90.66666666666667	3.3598941782277745
+200	250	Tournament(4)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		90.46666666666667	2.291045370325278
+200	250	Tournament(4)	PMX	0.3	Insert	0.2		126.73333333333333	11.78115255633147
+200	250	Tournament(4)	PMX	0.3	Insert	0.4		115.86666666666666	9.94562997278481
+200	250	Tournament(4)	PMX	0.3	Insert	0.5		116.93333333333334	10.311590027192166
+200	250	Tournament(4)	PMX	0.3	Swap Mutation 	0.2		127.86666666666666	9.408270593236333
+200	250	Tournament(4)	PMX	0.3	Swap Mutation 	0.4		124.86666666666666	11.215267371856198
+200	250	Tournament(4)	PMX	0.3	Swap Mutation 	0.5		124.8	9.231828998994008
+200	250	Tournament(4)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		92.2	3.771825375950837
+200	250	Tournament(4)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		91.46666666666667	4.096611065529924
+200	250	Tournament(4)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		89.66666666666667	2.4267032964268402
+200	250	Tournament(4)	Recombination 2 - One cute	0.1	Insert	0.2		126.46666666666667	12.107114529161036
+200	250	Tournament(4)	Recombination 2 - One cute	0.1	Insert	0.4		123.66666666666667	8.780027841008756
+200	250	Tournament(4)	Recombination 2 - One cute	0.1	Insert	0.5		114.46666666666667	8.72824279120501
+200	250	Tournament(4)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		131.46666666666667	11.14669856454766
+200	250	Tournament(4)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		122.4	10.031948963187563
+200	250	Tournament(4)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		122.73333333333333	12.203642443503863
+200	250	Tournament(4)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		92.6	4.47660585711988
+200	250	Tournament(4)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		91.73333333333333	3.172100600898753
+200	250	Tournament(4)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		90.46666666666667	3.2117838587855743
+200	250	Tournament(4)	Recombination 2 - One cute	0.2	Insert	0.2		126.8	11.273567906094916
+200	250	Tournament(4)	Recombination 2 - One cute	0.2	Insert	0.4		119.46666666666667	11.086728803193282
+200	250	Tournament(4)	Recombination 2 - One cute	0.2	Insert	0.5		120.33333333333333	10.367684837459564
+200	250	Tournament(4)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		131.2	12.6237870704476
+200	250	Tournament(4)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		125.66666666666667	11.513277359447029
+200	250	Tournament(4)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		124.06666666666666	10.676870119822361
+200	250	Tournament(4)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		92.2	4.361956747454825
+200	250	Tournament(4)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		91.13333333333334	2.8604583937233246
+200	250	Tournament(4)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		89.33333333333333	2.844097201026873
+200	250	Tournament(4)	Recombination 2 - One cute	0.3	Insert	0.2		123.66666666666667	12.25379759729838
+200	250	Tournament(4)	Recombination 2 - One cute	0.3	Insert	0.4		120.26666666666667	10.168360514633397
+200	250	Tournament(4)	Recombination 2 - One cute	0.3	Insert	0.5		117.06666666666666	12.604055784636238
+200	250	Tournament(4)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		127.26666666666667	9.186705370020068
+200	250	Tournament(4)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		128.33333333333334	12.817522728237655
+200	250	Tournament(4)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		122.86666666666666	11.577948388591516
+200	250	Tournament(4)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		92.8	3.0375428666385376
+200	250	Tournament(4)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		91.06666666666666	2.768071932270226
+200	250	Tournament(4)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		90.66666666666667	3.197221015541814
+200	250	Tournament(4)	Recombination 3 - order 1	0.1	Insert	0.2		119.06666666666666	9.65723677985697
+200	250	Tournament(4)	Recombination 3 - order 1	0.1	Insert	0.4		111.86666666666666	10.929267536705689
+200	250	Tournament(4)	Recombination 3 - order 1	0.1	Insert	0.5		109.46666666666667	8.261288573151823
+200	250	Tournament(4)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		124.46666666666667	10.541136350297133
+200	250	Tournament(4)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		120.46666666666667	11.450570097403693
+200	250	Tournament(4)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		115.06666666666666	12.228200558090668
+200	250	Tournament(4)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		92.33333333333333	3.7976600983002964
+200	250	Tournament(4)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		90.53333333333333	2.7292652653944955
+200	250	Tournament(4)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		90.2	2.3295206946208196
+200	250	Tournament(4)	Recombination 3 - order 1	0.2	Insert	0.2		114.86666666666666	9.915420089716598
+200	250	Tournament(4)	Recombination 3 - order 1	0.2	Insert	0.4		112.6	9.094320572020026
+200	250	Tournament(4)	Recombination 3 - order 1	0.2	Insert	0.5		112.2	10.17644338656684
+200	250	Tournament(4)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		119.6	11.318421562508911
+200	250	Tournament(4)	Recombination 3 - order 1	0.2	Swap Mutation 	0.4		117.66666666666667	9.63442900343462
+200	250	Tournament(4)	Recombination 3 - order 1	0.2	Swap Mutation 	0.5		115.2	8.893443277681223
+200	250	Tournament(4)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.2		92.0	3.4641016151377544
+200	250	Tournament(4)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.4		90.86666666666666	2.9066972475455524
+200	250	Tournament(4)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.5		90.66666666666667	3.025814858109392
+200	250	Tournament(4)	Recombination 3 - order 1	0.3	Insert	0.2		114.53333333333333	10.694962469416254
+200	250	Tournament(4)	Recombination 3 - order 1	0.3	Insert	0.4		109.73333333333333	7.689531122824648
+200	250	Tournament(4)	Recombination 3 - order 1	0.3	Insert	0.5		111.46666666666667	8.261288573151823
+200	250	Tournament(4)	Recombination 3 - order 1	0.3	Swap Mutation 	0.2		117.66666666666667	9.253227665102713
+200	250	Tournament(4)	Recombination 3 - order 1	0.3	Swap Mutation 	0.4		119.46666666666667	8.57800805678231
+200	250	Tournament(4)	Recombination 3 - order 1	0.3	Swap Mutation 	0.5		115.0	8.128140418734574
+200	250	Tournament(5)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		92.4	3.4019602192461527
+200	250	Tournament(5)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		90.46666666666667	2.997035572398536
+200	250	Tournament(5)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		89.93333333333334	2.2201101073795613
+200	250	Tournament(5)	PMX	0.1	Insert	0.2		133.86666666666667	13.23564211597693
+200	250	Tournament(5)	PMX	0.1	Insert	0.4		126.73333333333333	15.607548031499233
+200	250	Tournament(5)	PMX	0.1	Insert	0.5		117.53333333333333	8.773951346014076
+200	250	Tournament(5)	PMX	0.1	Swap Mutation 	0.2		129.33333333333334	14.192329696784181
+200	250	Tournament(5)	PMX	0.1	Swap Mutation 	0.4		124.66666666666667	12.245634142646738
+200	250	Tournament(5)	PMX	0.1	Swap Mutation 	0.5		125.6	9.735159646011633
+200	250	Tournament(5)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		92.2	4.237924020083419
+200	250	Tournament(5)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		90.66666666666667	3.3598941782277745
+200	250	Tournament(5)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		90.0	2.5298221281347035
+200	250	Tournament(5)	PMX	0.2	Insert	0.2		127.46666666666667	14.559609274366611
+200	250	Tournament(5)	PMX	0.2	Insert	0.4		122.06666666666666	15.174393636064085
+200	250	Tournament(5)	PMX	0.2	Insert	0.5		116.33333333333333	10.444562647085272
+200	250	Tournament(5)	PMX	0.2	Swap Mutation 	0.2		132.86666666666667	14.400771584266659
+200	250	Tournament(5)	PMX	0.2	Swap Mutation 	0.4		126.06666666666666	15.409809285718698
+200	250	Tournament(5)	PMX	0.2	Swap Mutation 	0.5		121.26666666666667	12.495154616445884
+200	250	Tournament(5)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		92.26666666666667	3.641733408999378
+200	250	Tournament(5)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		89.2	2.1039645117412666
+200	250	Tournament(5)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		90.53333333333333	2.9634814361190487
+200	250	Tournament(5)	PMX	0.3	Insert	0.2		129.66666666666666	15.380362660079104
+200	250	Tournament(5)	PMX	0.3	Insert	0.4		117.6	10.34601372510205
+200	250	Tournament(5)	PMX	0.3	Insert	0.5		120.8	10.64080197478868
+200	250	Tournament(5)	PMX	0.3	Swap Mutation 	0.2		129.53333333333333	13.1624043733996
+200	250	Tournament(5)	PMX	0.3	Swap Mutation 	0.4		129.46666666666667	13.593462480995127
+200	250	Tournament(5)	PMX	0.3	Swap Mutation 	0.5		118.93333333333334	9.698568050089776
+200	250	Tournament(5)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		91.53333333333333	3.1276544281973058
+200	250	Tournament(5)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		89.33333333333333	2.6997942308422123
+200	250	Tournament(5)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		89.53333333333333	2.513076909996101
+200	250	Tournament(5)	Recombination 2 - One cute	0.1	Insert	0.2		129.66666666666666	12.618328820498466
+200	250	Tournament(5)	Recombination 2 - One cute	0.1	Insert	0.4		119.86666666666666	10.262336749276724
+200	250	Tournament(5)	Recombination 2 - One cute	0.1	Insert	0.5		119.53333333333333	12.729842453419796
+200	250	Tournament(5)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		131.66666666666666	12.879786057574437
+200	250	Tournament(5)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		123.4	10.407048893258196
+200	250	Tournament(5)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		121.06666666666666	9.983096825245273
+200	250	Tournament(5)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		92.6	3.545889639192587
+200	250	Tournament(5)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		91.26666666666667	3.7765357435382785
+200	250	Tournament(5)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		90.06666666666666	3.36584148303049
+200	250	Tournament(5)	Recombination 2 - One cute	0.2	Insert	0.2		126.13333333333334	11.395125663584798
+200	250	Tournament(5)	Recombination 2 - One cute	0.2	Insert	0.4		119.06666666666666	11.985917662916854
+200	250	Tournament(5)	Recombination 2 - One cute	0.2	Insert	0.5		117.53333333333333	9.46126606514982
+200	250	Tournament(5)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		129.86666666666667	11.170596323483458
+200	250	Tournament(5)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		122.06666666666666	10.006442369238375
+200	250	Tournament(5)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		120.2	9.038436442954795
+200	250	Tournament(5)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		92.8	3.8157568056677817
+200	250	Tournament(5)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		90.6	3.693237062523879
+200	250	Tournament(5)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		89.86666666666666	2.6799668322989043
+200	250	Tournament(5)	Recombination 2 - One cute	0.3	Insert	0.2		125.33333333333333	12.1472447721924
+200	250	Tournament(5)	Recombination 2 - One cute	0.3	Insert	0.4		118.06666666666666	9.302090565506706
+200	250	Tournament(5)	Recombination 2 - One cute	0.3	Insert	0.5		120.4	10.524891131661807
+200	250	Tournament(5)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		130.6	13.004101916959382
+200	250	Tournament(5)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		124.13333333333334	13.455440865645722
+200	250	Tournament(5)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		123.93333333333334	10.072845785686498
+200	250	Tournament(5)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		92.53333333333333	3.649048582241068
+200	250	Tournament(5)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		91.4	3.0615900008546757
+200	250	Tournament(5)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		90.73333333333333	2.9431653406192164
+200	250	Tournament(5)	Recombination 3 - order 1	0.1	Insert	0.2		117.66666666666667	11.36172913287801
+200	250	Tournament(5)	Recombination 3 - order 1	0.1	Insert	0.4		114.53333333333333	11.33647015413332
+200	250	Tournament(5)	Recombination 3 - order 1	0.1	Insert	0.5		110.6	10.858483626486095
+200	250	Tournament(5)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		125.26666666666667	11.236646395709984
+200	250	Tournament(5)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		121.0	7.810249675906654
+200	250	Tournament(5)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		120.0	9.757048734120374
+200	250	Tournament(5)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		94.0	4.8166378315169185
+200	250	Tournament(5)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		91.06666666666666	3.335998934185814
+200	250	Tournament(5)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		89.86666666666666	2.6799668322989043
+200	250	Tournament(5)	Recombination 3 - order 1	0.2	Insert	0.2		112.8	10.034606785187616
+200	250	Tournament(5)	Recombination 3 - order 1	0.2	Insert	0.4		110.6	9.411340676722595
+200	250	Tournament(5)	Recombination 3 - order 1	0.2	Insert	0.5		109.66666666666667	8.182637444953526
+200	250	Tournament(5)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		121.06666666666666	11.930167177742687
+200	250	Tournament(5)	Recombination 3 - order 1	0.2	Swap Mutation 	0.4		115.6	8.890444308357146
+200	250	Tournament(5)	Recombination 3 - order 1	0.2	Swap Mutation 	0.5		114.2	9.484724561103501
+200	250	Tournament(5)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.2		93.53333333333333	3.748184745832159
+200	250	Tournament(5)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.4		91.26666666666667	3.66909010821787
+200	250	Tournament(5)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.5		90.4	2.9393876913398134
+200	250	Tournament(5)	Recombination 3 - order 1	0.3	Insert	0.2		113.66666666666667	10.533544301684763
+200	250	Tournament(5)	Recombination 3 - order 1	0.3	Insert	0.4		109.93333333333334	7.183004632850767
+200	250	Tournament(5)	Recombination 3 - order 1	0.3	Insert	0.5		108.8	8.4
+200	250	Tournament(5)	Recombination 3 - order 1	0.3	Swap Mutation 	0.2		120.46666666666667	8.879689684267627
+200	250	Tournament(5)	Recombination 3 - order 1	0.3	Swap Mutation 	0.4		116.33333333333333	10.014434027387113
+200	250	Tournament(5)	Recombination 3 - order 1	0.3	Swap Mutation 	0.5		112.73333333333333	9.885792274212971
+200	500	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		90.33333333333333	3.467307633052224
+200	500	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		91.2	3.3704599092705423
+200	500	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		107.13333333333334	4.863012326623169
+200	500	Tournament(2)	PMX	0.1	Insert	0.2		125.53333333333333	13.561546945520469
+200	500	Tournament(2)	PMX	0.1	Insert	0.4		115.33333333333333	11.66571424683842
+200	500	Tournament(2)	PMX	0.1	Insert	0.5		122.4	14.536391115633437
+200	500	Tournament(2)	PMX	0.1	Swap Mutation 	0.2		128.0	11.20714058089752
+200	500	Tournament(2)	PMX	0.1	Swap Mutation 	0.4		121.46666666666667	9.63235289128374
+200	500	Tournament(2)	PMX	0.1	Swap Mutation 	0.5		118.8	9.231828998994006
+200	500	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		91.93333333333334	3.741063425759521
+200	500	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		92.8	3.2083225108042566
+200	500	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		120.0	7.8655366420014
+200	500	Tournament(2)	PMX	0.2	Insert	0.2		121.13333333333334	12.645772240379609
+200	500	Tournament(2)	PMX	0.2	Insert	0.4		115.6	10.812338630780424
+200	500	Tournament(2)	PMX	0.2	Insert	0.5		126.33333333333333	7.98470760614035
+200	500	Tournament(2)	PMX	0.2	Swap Mutation 	0.2		126.13333333333334	10.769504270031291
+200	500	Tournament(2)	PMX	0.2	Swap Mutation 	0.4		125.46666666666667	12.701006084383849
+200	500	Tournament(2)	PMX	0.2	Swap Mutation 	0.5		122.4	9.803400770480959
+200	500	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		92.93333333333334	3.5677568427359074
+200	500	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		97.13333333333334	6.0151660178437485
+200	500	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		140.33333333333334	10.251287182051282
+200	500	Tournament(2)	PMX	0.3	Insert	0.2		119.46666666666667	12.435790641888794
+200	500	Tournament(2)	PMX	0.3	Insert	0.4		113.33333333333333	9.299940262651631
+200	500	Tournament(2)	PMX	0.3	Insert	0.5		125.06666666666666	11.132335284606231
+200	500	Tournament(2)	PMX	0.3	Swap Mutation 	0.2		125.33333333333333	12.1472447721924
+200	500	Tournament(2)	PMX	0.3	Swap Mutation 	0.4		119.8	8.63095205254515
+200	500	Tournament(2)	PMX	0.3	Swap Mutation 	0.5		119.26666666666667	9.872295691591813
+200	500	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		90.53333333333333	2.5785439474418284
+200	500	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		91.26666666666667	3.076072532015821
+200	500	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		106.26666666666667	4.090096440047459
+200	500	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.2		125.26666666666667	11.633094553423389
+200	500	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.4		112.06666666666666	10.788677192110049
+200	500	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.5		122.0	7.694153624668537
+200	500	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		128.0	11.442610424782158
+200	500	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		119.86666666666666	9.687563619862782
+200	500	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		131.73333333333332	9.712306054119633
+200	500	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		91.46666666666667	3.721409529854096
+200	500	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		91.4	2.7880698221768636
+200	500	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		111.93333333333334	5.668235077066658
+200	500	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.2		120.8	14.100591004162439
+200	500	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.4		113.26666666666667	8.891694001832398
+200	500	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.5		120.33333333333333	8.470865100776635
+200	500	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		129.2	11.42628548566856
+200	500	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		123.4	8.596898665604163
+200	500	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		134.4	9.569395661865661
+200	500	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		91.93333333333334	3.244824939636788
+200	500	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		95.13333333333334	5.578131905535719
+200	500	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		117.73333333333333	7.261466028901387
+200	500	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.2		120.8	13.491725859454254
+200	500	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.4		112.46666666666667	11.047573891533332
+200	500	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.5		120.4	11.259366471224451
+200	500	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		122.86666666666666	12.216746248035475
+200	500	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		118.66666666666667	8.104868221562205
+200	500	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		131.8	11.175568591053135
+200	500	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		92.33333333333333	3.2693866227304604
+200	500	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		94.4	2.9393876913398134
+200	500	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		116.33333333333333	4.353797831268185
+200	500	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.2		111.33333333333333	10.044346115546244
+200	500	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.4		112.93333333333334	7.352701695446525
+200	500	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.5		122.8	6.337191807101944
+200	500	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		120.53333333333333	11.965877411298438
+200	500	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		119.53333333333333	8.773951346014076
+200	500	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		140.6	7.952358140828418
+200	500	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		92.66666666666667	3.6636351104090905
+200	500	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		114.46666666666667	5.129868960856169
+200	500	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		134.8	5.576139644353727
+200	500	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.2		109.8	7.972452571197899
+200	500	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.4		118.4	7.9899937421752725
+200	500	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.5		137.4	5.167849327008932
+200	500	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		116.8	8.803029781463502
+200	500	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.4		131.86666666666667	8.531249745624743
+200	500	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.5		149.13333333333333	6.9796529681321235
+200	500	Tournament(2)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.2		98.73333333333333	4.884897360459298
+200	500	Tournament(2)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.4		135.46666666666667	5.678810517079162
+200	500	Tournament(2)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.5		146.6	5.541359640617696
+200	500	Tournament(2)	Recombination 3 - order 1	0.3	Insert	0.2		111.66666666666667	7.625978989976012
+200	500	Tournament(2)	Recombination 3 - order 1	0.3	Insert	0.4		130.8	5.901412260354862
+200	500	Tournament(2)	Recombination 3 - order 1	0.3	Insert	0.5		143.06666666666666	8.144254962173573
+200	500	Tournament(2)	Recombination 3 - order 1	0.3	Swap Mutation 	0.2		116.86666666666666	7.705986129122102
+200	500	Tournament(2)	Recombination 3 - order 1	0.3	Swap Mutation 	0.4		142.86666666666667	7.017755259973727
+200	500	Tournament(2)	Recombination 3 - order 1	0.3	Swap Mutation 	0.5		162.26666666666668	5.790413533495591
+200	500	Tournament(4)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		90.73333333333333	2.756003547812586
+200	500	Tournament(4)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		89.26666666666667	2.502443250549795
+200	500	Tournament(4)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		89.6	2.6532998322843193
+200	500	Tournament(4)	PMX	0.1	Insert	0.2		125.73333333333333	11.156263811071438
+200	500	Tournament(4)	PMX	0.1	Insert	0.4		117.46666666666667	10.607334988372694
+200	500	Tournament(4)	PMX	0.1	Insert	0.5		116.73333333333333	11.747150954829669
+200	500	Tournament(4)	PMX	0.1	Swap Mutation 	0.2		127.73333333333333	11.132335284606231
+200	500	Tournament(4)	PMX	0.1	Swap Mutation 	0.4		122.86666666666666	12.018689150189752
+200	500	Tournament(4)	PMX	0.1	Swap Mutation 	0.5		119.73333333333333	11.416167872315512
+200	500	Tournament(4)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		90.86666666666666	3.2117838587855747
+200	500	Tournament(4)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		90.73333333333333	2.756003547812586
+200	500	Tournament(4)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		89.73333333333333	2.235073948565362
+200	500	Tournament(4)	PMX	0.2	Insert	0.2		123.2	14.529051356965233
+200	500	Tournament(4)	PMX	0.2	Insert	0.4		117.13333333333334	13.433126549276935
+200	500	Tournament(4)	PMX	0.2	Insert	0.5		118.13333333333334	11.241984799056715
+200	500	Tournament(4)	PMX	0.2	Swap Mutation 	0.2		126.0	11.123548594460912
+200	500	Tournament(4)	PMX	0.2	Swap Mutation 	0.4		118.73333333333333	9.113847827466852
+200	500	Tournament(4)	PMX	0.2	Swap Mutation 	0.5		118.13333333333334	10.594757613503429
+200	500	Tournament(4)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		90.86666666666666	3.451891590933231
+200	500	Tournament(4)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		89.66666666666667	2.832352771499734
+200	500	Tournament(4)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		89.73333333333333	2.462158041682586
+200	500	Tournament(4)	PMX	0.3	Insert	0.2		125.06666666666666	11.772661362476862
+200	500	Tournament(4)	PMX	0.3	Insert	0.4		112.26666666666667	9.629584045476154
+200	500	Tournament(4)	PMX	0.3	Insert	0.5		115.13333333333334	10.741611714366808
+200	500	Tournament(4)	PMX	0.3	Swap Mutation 	0.2		125.4	8.183723683833254
+200	500	Tournament(4)	PMX	0.3	Swap Mutation 	0.4		122.0	10.868915922636136
+200	500	Tournament(4)	PMX	0.3	Swap Mutation 	0.5		121.8	9.761830429449864
+200	500	Tournament(4)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		90.53333333333333	3.4227993741315816
+200	500	Tournament(4)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		90.26666666666667	3.6417334089993774
+200	500	Tournament(4)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		88.8	2.2271057451320084
+200	500	Tournament(4)	Recombination 2 - One cute	0.1	Insert	0.2		123.86666666666666	12.553175782335808
+200	500	Tournament(4)	Recombination 2 - One cute	0.1	Insert	0.4		121.06666666666666	9.643420324529858
+200	500	Tournament(4)	Recombination 2 - One cute	0.1	Insert	0.5		112.73333333333333	9.12846585625914
+200	500	Tournament(4)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		127.8	11.620097532579779
+200	500	Tournament(4)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		118.66666666666667	8.798989841011423
+200	500	Tournament(4)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		118.86666666666666	11.873593483955151
+200	500	Tournament(4)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		91.46666666666667	3.757067414294765
+200	500	Tournament(4)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		90.46666666666667	2.5130769099961014
+200	500	Tournament(4)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		89.46666666666667	2.7292652653944955
+200	500	Tournament(4)	Recombination 2 - One cute	0.2	Insert	0.2		123.66666666666667	10.380537344258993
+200	500	Tournament(4)	Recombination 2 - One cute	0.2	Insert	0.4		114.46666666666667	8.496012136421546
+200	500	Tournament(4)	Recombination 2 - One cute	0.2	Insert	0.5		116.06666666666666	10.462419520465724
+200	500	Tournament(4)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		127.93333333333334	12.25814921683621
+200	500	Tournament(4)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		121.13333333333334	11.96309138791289
+200	500	Tournament(4)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		119.46666666666667	10.719867329195615
+200	500	Tournament(4)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		91.46666666666667	3.5752233807445117
+200	500	Tournament(4)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		90.4	2.751968992073371
+200	500	Tournament(4)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		88.46666666666667	2.2320892057044275
+200	500	Tournament(4)	Recombination 2 - One cute	0.3	Insert	0.2		120.33333333333333	10.34193190634881
+200	500	Tournament(4)	Recombination 2 - One cute	0.3	Insert	0.4		117.06666666666666	10.791766408805476
+200	500	Tournament(4)	Recombination 2 - One cute	0.3	Insert	0.5		114.46666666666667	11.485449732402977
+200	500	Tournament(4)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		125.33333333333333	9.18452805295708
+200	500	Tournament(4)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		125.93333333333334	12.997264669494456
+200	500	Tournament(4)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		119.13333333333334	10.57901486696921
+200	500	Tournament(4)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		91.46666666666667	3.1382939455839516
+200	500	Tournament(4)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		90.06666666666666	2.606828639468954
+200	500	Tournament(4)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		89.6	2.7999999999999994
+200	500	Tournament(4)	Recombination 3 - order 1	0.1	Insert	0.2		115.13333333333334	10.515808205850002
+200	500	Tournament(4)	Recombination 3 - order 1	0.1	Insert	0.4		108.73333333333333	9.172180160075843
+200	500	Tournament(4)	Recombination 3 - order 1	0.1	Insert	0.5		106.4	8.138795979750322
+200	500	Tournament(4)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		120.26666666666667	11.497632606565388
+200	500	Tournament(4)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		116.8	9.724196624914574
+200	500	Tournament(4)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		112.6	11.822577271193172
+200	500	Tournament(4)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		91.0	3.0876096471758427
+200	500	Tournament(4)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		89.33333333333333	2.4404006956964173
+200	500	Tournament(4)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		88.73333333333333	1.7499206331208912
+200	500	Tournament(4)	Recombination 3 - order 1	0.2	Insert	0.2		108.46666666666667	10.477701189775466
+200	500	Tournament(4)	Recombination 3 - order 1	0.2	Insert	0.4		108.06666666666666	8.816398861717232
+200	500	Tournament(4)	Recombination 3 - order 1	0.2	Insert	0.5		106.73333333333333	10.217414328270905
+200	500	Tournament(4)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		117.06666666666666	10.604820706745691
+200	500	Tournament(4)	Recombination 3 - order 1	0.2	Swap Mutation 	0.4		112.6	8.085377748338868
+200	500	Tournament(4)	Recombination 3 - order 1	0.2	Swap Mutation 	0.5		112.46666666666667	8.605166406809857
+200	500	Tournament(4)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.2		90.66666666666667	3.155242550986462
+200	500	Tournament(4)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.4		89.86666666666666	2.729265265394496
+200	500	Tournament(4)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.5		89.66666666666667	2.6874192494328506
+200	500	Tournament(4)	Recombination 3 - order 1	0.3	Insert	0.2		109.93333333333334	11.378146695407922
+200	500	Tournament(4)	Recombination 3 - order 1	0.3	Insert	0.4		105.46666666666667	8.1147328291749
+200	500	Tournament(4)	Recombination 3 - order 1	0.3	Insert	0.5		105.86666666666666	8.452744458984247
+200	500	Tournament(4)	Recombination 3 - order 1	0.3	Swap Mutation 	0.2		112.86666666666666	9.888489380194642
+200	500	Tournament(4)	Recombination 3 - order 1	0.3	Swap Mutation 	0.4		113.06666666666666	9.391248881568178
+200	500	Tournament(4)	Recombination 3 - order 1	0.3	Swap Mutation 	0.5		110.4	8.220300075625788
+200	500	Tournament(5)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		91.06666666666666	2.768071932270225
+200	500	Tournament(5)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		89.73333333333333	2.407396011369039
+200	500	Tournament(5)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		89.26666666666667	1.824524291120534
+200	500	Tournament(5)	PMX	0.1	Insert	0.2		130.66666666666666	12.48287716122458
+200	500	Tournament(5)	PMX	0.1	Insert	0.4		125.0	15.754364474646383
+200	500	Tournament(5)	PMX	0.1	Insert	0.5		116.8	8.98294680677412
+200	500	Tournament(5)	PMX	0.1	Swap Mutation 	0.2		125.46666666666667	12.606171328185079
+200	500	Tournament(5)	PMX	0.1	Swap Mutation 	0.4		121.86666666666666	11.395125663584798
+200	500	Tournament(5)	PMX	0.1	Swap Mutation 	0.5		122.13333333333334	8.389411315594332
+200	500	Tournament(5)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		90.93333333333334	3.335998934185813
+200	500	Tournament(5)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		89.6	2.7030846576951046
+200	500	Tournament(5)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		89.6	2.274496281230931
+200	500	Tournament(5)	PMX	0.2	Insert	0.2		123.66666666666667	12.62889103955248
+200	500	Tournament(5)	PMX	0.2	Insert	0.4		118.73333333333333	14.118388324766
+200	500	Tournament(5)	PMX	0.2	Insert	0.5		114.86666666666666	10.401068321197693
+200	500	Tournament(5)	PMX	0.2	Swap Mutation 	0.2		129.26666666666668	13.812876440320299
+200	500	Tournament(5)	PMX	0.2	Swap Mutation 	0.4		122.46666666666667	15.149770808680758
+200	500	Tournament(5)	PMX	0.2	Swap Mutation 	0.5		118.0	12.13260071048248
+200	500	Tournament(5)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		90.8	2.612789058968722
+200	500	Tournament(5)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		88.93333333333334	2.1123972690339814
+200	500	Tournament(5)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		90.4	2.8936712552280937
+200	500	Tournament(5)	PMX	0.3	Insert	0.2		127.46666666666667	14.822805252567933
+200	500	Tournament(5)	PMX	0.3	Insert	0.4		116.4	10.384603988597737
+200	500	Tournament(5)	PMX	0.3	Insert	0.5		118.26666666666667	11.02401419125034
+200	500	Tournament(5)	PMX	0.3	Swap Mutation 	0.2		125.06666666666666	13.708715800135653
+200	500	Tournament(5)	PMX	0.3	Swap Mutation 	0.4		125.13333333333334	12.074030901990529
+200	500	Tournament(5)	PMX	0.3	Swap Mutation 	0.5		116.8	10.21893667005852
+200	500	Tournament(5)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		90.46666666666667	2.860458393723324
+200	500	Tournament(5)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		88.73333333333333	2.6068286394689544
+200	500	Tournament(5)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		88.8	2.343786110832926
+200	500	Tournament(5)	Recombination 2 - One cute	0.1	Insert	0.2		125.73333333333333	13.413757448563357
+200	500	Tournament(5)	Recombination 2 - One cute	0.1	Insert	0.4		117.53333333333333	10.840459194866035
+200	500	Tournament(5)	Recombination 2 - One cute	0.1	Insert	0.5		114.06666666666666	12.377219217399178
+200	500	Tournament(5)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		127.06666666666666	12.23909945852045
+200	500	Tournament(5)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		119.6	10.01864927689024
+200	500	Tournament(5)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		119.2	9.600000000000001
+200	500	Tournament(5)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		91.73333333333333	3.0868898407440613
+200	500	Tournament(5)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		90.13333333333334	2.8252826800556123
+200	500	Tournament(5)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		88.66666666666667	2.3851391759997767
+200	500	Tournament(5)	Recombination 2 - One cute	0.2	Insert	0.2		121.53333333333333	10.96276526348267
+200	500	Tournament(5)	Recombination 2 - One cute	0.2	Insert	0.4		115.2	11.118752927674338
+200	500	Tournament(5)	Recombination 2 - One cute	0.2	Insert	0.5		115.06666666666666	9.601851673274044
+200	500	Tournament(5)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		127.93333333333334	11.701661800312332
+200	500	Tournament(5)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		119.06666666666666	10.168360514633399
+200	500	Tournament(5)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		117.13333333333334	8.743505526325746
+200	500	Tournament(5)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		91.06666666666666	3.5677568427359074
+200	500	Tournament(5)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		89.73333333333333	3.1297852251481353
+200	500	Tournament(5)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		89.6	2.4979991993593593
+200	500	Tournament(5)	Recombination 2 - One cute	0.3	Insert	0.2		123.4	11.856362567555585
+200	500	Tournament(5)	Recombination 2 - One cute	0.3	Insert	0.4		117.4	9.425497334358543
+200	500	Tournament(5)	Recombination 2 - One cute	0.3	Insert	0.5		115.33333333333333	11.019175206077005
+200	500	Tournament(5)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		126.73333333333333	10.776311469556218
+200	500	Tournament(5)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		120.73333333333333	12.94587021237103
+200	500	Tournament(5)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		120.93333333333334	9.377040518675864
+200	500	Tournament(5)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		90.86666666666666	2.813459712801226
+200	500	Tournament(5)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		89.86666666666666	2.3626726862225804
+200	500	Tournament(5)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		90.13333333333334	2.6297443897754693
+200	500	Tournament(5)	Recombination 3 - order 1	0.1	Insert	0.2		113.8	10.824047302187846
+200	500	Tournament(5)	Recombination 3 - order 1	0.1	Insert	0.4		110.73333333333333	11.189081980017646
+200	500	Tournament(5)	Recombination 3 - order 1	0.1	Insert	0.5		106.33333333333333	9.004936917540782
+200	500	Tournament(5)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		121.33333333333333	10.674996747332315
+200	500	Tournament(5)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		117.53333333333333	7.9108926311903796
+200	500	Tournament(5)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		117.2	8.982946806774118
+200	500	Tournament(5)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		90.86666666666666	3.4130468629787205
+200	500	Tournament(5)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		89.66666666666667	2.5862886321694436
+200	500	Tournament(5)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		88.93333333333334	2.407396011369038
+200	500	Tournament(5)	Recombination 3 - order 1	0.2	Insert	0.2		109.0	9.821744583660617
+200	500	Tournament(5)	Recombination 3 - order 1	0.2	Insert	0.4		108.46666666666667	9.362098530184829
+200	500	Tournament(5)	Recombination 3 - order 1	0.2	Insert	0.5		107.6	8.616263691415206
+200	500	Tournament(5)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		118.13333333333334	12.71149960556276
+200	500	Tournament(5)	Recombination 3 - order 1	0.2	Swap Mutation 	0.4		113.4	8.392854103342914
+200	500	Tournament(5)	Recombination 3 - order 1	0.2	Swap Mutation 	0.5		111.06666666666666	10.207622424225711
+200	500	Tournament(5)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.2		91.46666666666667	3.649048582241068
+200	500	Tournament(5)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.4		89.73333333333333	2.7194770739161527
+200	500	Tournament(5)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.5		89.2	2.286190426597633
+200	500	Tournament(5)	Recombination 3 - order 1	0.3	Insert	0.2		110.06666666666666	10.739128870112738
+200	500	Tournament(5)	Recombination 3 - order 1	0.3	Insert	0.4		107.13333333333334	7.017755259973725
+200	500	Tournament(5)	Recombination 3 - order 1	0.3	Insert	0.5		104.33333333333333	6.852412389484127
+200	500	Tournament(5)	Recombination 3 - order 1	0.3	Swap Mutation 	0.2		117.46666666666667	8.792926450025359
+200	500	Tournament(5)	Recombination 3 - order 1	0.3	Swap Mutation 	0.4		112.66666666666667	8.768630958643937
+200	500	Tournament(5)	Recombination 3 - order 1	0.3	Swap Mutation 	0.5		110.2	9.023672570891888
+400	250	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		91.13333333333334	2.9970355723985365
+400	250	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		97.26666666666667	4.456705310228871
+400	250	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		116.06666666666666	5.94381097351597
+400	250	Tournament(2)	PMX	0.1	Insert	0.2		120.6	12.254522974532028
+400	250	Tournament(2)	PMX	0.1	Insert	0.4		120.6	11.0169566275507
+400	250	Tournament(2)	PMX	0.1	Insert	0.5		125.66666666666667	9.81269019631665
+400	250	Tournament(2)	PMX	0.1	Swap Mutation 	0.2		129.66666666666666	11.742609969205692
+400	250	Tournament(2)	PMX	0.1	Swap Mutation 	0.4		123.73333333333333	8.290288830245233
+400	250	Tournament(2)	PMX	0.1	Swap Mutation 	0.5		122.93333333333334	7.531858262665918
+400	250	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		92.26666666666667	3.9237170585499106
+400	250	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		103.26666666666667	7.456242723755414
+400	250	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		128.13333333333333	5.998518335574395
+400	250	Tournament(2)	PMX	0.2	Insert	0.2		118.06666666666666	11.093341346150954
+400	250	Tournament(2)	PMX	0.2	Insert	0.4		115.93333333333334	11.983136298797385
+400	250	Tournament(2)	PMX	0.2	Insert	0.5		127.46666666666667	10.582165289874384
+400	250	Tournament(2)	PMX	0.2	Swap Mutation 	0.2		123.46666666666667	14.037410334135314
+400	250	Tournament(2)	PMX	0.2	Swap Mutation 	0.4		119.73333333333333	10.999797977942846
+400	250	Tournament(2)	PMX	0.2	Swap Mutation 	0.5		124.53333333333333	8.92835682281771
+400	250	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		92.06666666666666	4.146752410689064
+400	250	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		116.33333333333333	9.107994046745725
+400	250	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		146.53333333333333	9.017513823419154
+400	250	Tournament(2)	PMX	0.3	Insert	0.2		118.6	9.840731680114034
+400	250	Tournament(2)	PMX	0.3	Insert	0.4		121.6	11.104353500617073
+400	250	Tournament(2)	PMX	0.3	Insert	0.5		133.46666666666667	12.65894501484578
+400	250	Tournament(2)	PMX	0.3	Swap Mutation 	0.2		120.0	12.86856635371633
+400	250	Tournament(2)	PMX	0.3	Swap Mutation 	0.4		119.2	11.63443165779919
+400	250	Tournament(2)	PMX	0.3	Swap Mutation 	0.5		123.6	11.01998185116473
+400	250	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		91.66666666666667	3.867241336606179
+400	250	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		95.73333333333333	4.434210439550904
+400	250	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		110.6	4.325120422215626
+400	250	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.2		121.93333333333334	8.571010571818368
+400	250	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.4		115.46666666666667	9.236642006462931
+400	250	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.5		122.0	7.966596931354483
+400	250	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		126.13333333333334	12.71149960556276
+400	250	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		125.33333333333333	11.981467170407619
+400	250	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		136.33333333333334	8.930596595723914
+400	250	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		92.33333333333333	4.323064756499592
+400	250	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		99.73333333333333	5.234076380370806
+400	250	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		114.2	5.0424861592935155
+400	250	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.2		116.33333333333333	9.771841632409364
+400	250	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.4		113.33333333333333	7.904991390816873
+400	250	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.5		125.6	10.216326802394946
+400	250	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		123.53333333333333	13.795490406489927
+400	250	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		124.2	11.790956986889007
+400	250	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		132.73333333333332	9.486598734823538
+400	250	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		93.66666666666667	3.6908294761777087
+400	250	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		101.4	5.219195340279956
+400	250	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		119.8	7.124605252222751
+400	250	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.2		117.73333333333333	8.910418371521931
+400	250	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.4		115.13333333333334	8.32159172808237
+400	250	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.5		118.8	8.19105202848409
+400	250	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		124.2	11.127743107506872
+400	250	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		123.8	9.56869897112455
+400	250	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		138.06666666666666	9.667586163165147
+400	250	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		94.86666666666666	4.492462823688385
+400	250	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		104.13333333333334	4.440220214759123
+400	250	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		118.66666666666667	4.908043285148256
+400	250	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.2		116.26666666666667	9.875671566475308
+400	250	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.4		118.4	9.358062477528847
+400	250	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.5		126.8	8.84835201228643
+400	250	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		121.06666666666666	9.476051685990086
+400	250	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		125.66666666666667	10.5081978579689
+400	250	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		141.2	6.958927120373276
+400	250	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		98.0	4.501851470969102
+400	250	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		116.86666666666666	6.189956022101898
+400	250	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		136.26666666666668	4.836895239257881
+400	250	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.2		112.66666666666667	7.82020175926143
+400	250	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.4		124.66666666666667	6.373556481449129
+400	250	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.5		136.8	9.071567303026162
+400	250	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		115.86666666666666	7.8474341170998185
+400	250	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.4		136.86666666666667	9.793648735561
+400	250	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.5		155.0	7.810249675906654
+400	250	Tournament(2)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.2		108.06666666666666	4.603863112165211
+400	250	Tournament(2)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.4		133.86666666666667	6.17377968148812
+400	250	Tournament(2)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.5		145.53333333333333	7.477670463155993
+400	250	Tournament(2)	Recombination 3 - order 1	0.3	Insert	0.2		118.8	7.277362159464102
+400	250	Tournament(2)	Recombination 3 - order 1	0.3	Insert	0.4		129.66666666666666	8.533593746026478
+400	250	Tournament(2)	Recombination 3 - order 1	0.3	Insert	0.5		141.93333333333334	7.108367526295253
+400	250	Tournament(2)	Recombination 3 - order 1	0.3	Swap Mutation 	0.2		116.93333333333334	8.07850371184059
+400	250	Tournament(2)	Recombination 3 - order 1	0.3	Swap Mutation 	0.4		143.0	8.880690663831652
+400	250	Tournament(2)	Recombination 3 - order 1	0.3	Swap Mutation 	0.5		161.0	7.827302643099133
+400	250	Tournament(4)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		90.86666666666666	3.333999933346663
+400	250	Tournament(4)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		89.73333333333333	2.8627880738111853
+400	250	Tournament(4)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		90.13333333333334	2.4729649321321876
+400	250	Tournament(4)	PMX	0.1	Insert	0.2		119.6	13.831365321856937
+400	250	Tournament(4)	PMX	0.1	Insert	0.4		122.46666666666667	11.438919917933198
+400	250	Tournament(4)	PMX	0.1	Insert	0.5		114.06666666666666	10.372827751175452
+400	250	Tournament(4)	PMX	0.1	Swap Mutation 	0.2		126.66666666666667	10.460507742085095
+400	250	Tournament(4)	PMX	0.1	Swap Mutation 	0.4		120.33333333333333	10.014434027387114
+400	250	Tournament(4)	PMX	0.1	Swap Mutation 	0.5		118.46666666666667	10.272076496772966
+400	250	Tournament(4)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		92.73333333333333	3.66909010821787
+400	250	Tournament(4)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		89.33333333333333	2.0221001184137473
+400	250	Tournament(4)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		89.13333333333334	2.513076909996102
+400	250	Tournament(4)	PMX	0.2	Insert	0.2		122.26666666666667	11.072287729080905
+400	250	Tournament(4)	PMX	0.2	Insert	0.4		114.66666666666667	10.47324633954959
+400	250	Tournament(4)	PMX	0.2	Insert	0.5		112.66666666666667	10.774455387113026
+400	250	Tournament(4)	PMX	0.2	Swap Mutation 	0.2		127.2	12.117205398385664
+400	250	Tournament(4)	PMX	0.2	Swap Mutation 	0.4		118.86666666666666	8.321591728082367
+400	250	Tournament(4)	PMX	0.2	Swap Mutation 	0.5		117.93333333333334	7.702524838576563
+400	250	Tournament(4)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		91.86666666666666	2.9634814361190496
+400	250	Tournament(4)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		90.46666666666667	2.5130769099961014
+400	250	Tournament(4)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		89.13333333333334	2.10923893594085
+400	250	Tournament(4)	PMX	0.3	Insert	0.2		118.8	10.728156101275433
+400	250	Tournament(4)	PMX	0.3	Insert	0.4		116.8	10.387171575233237
+400	250	Tournament(4)	PMX	0.3	Insert	0.5		113.73333333333333	11.38107591086576
+400	250	Tournament(4)	PMX	0.3	Swap Mutation 	0.2		122.13333333333334	8.73206097601757
+400	250	Tournament(4)	PMX	0.3	Swap Mutation 	0.4		120.26666666666667	8.925369584629099
+400	250	Tournament(4)	PMX	0.3	Swap Mutation 	0.5		118.86666666666666	13.081114461526415
+400	250	Tournament(4)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		91.66666666666667	3.580813067198876
+400	250	Tournament(4)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		89.33333333333333	2.494438257849295
+400	250	Tournament(4)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		89.53333333333333	2.348521993841138
+400	250	Tournament(4)	Recombination 2 - One cute	0.1	Insert	0.2		121.73333333333333	12.195445415764398
+400	250	Tournament(4)	Recombination 2 - One cute	0.1	Insert	0.4		116.33333333333333	10.014434027387114
+400	250	Tournament(4)	Recombination 2 - One cute	0.1	Insert	0.5		114.53333333333333	10.744714462883081
+400	250	Tournament(4)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		125.86666666666666	12.087826750725524
+400	250	Tournament(4)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		120.6	11.291884991739273
+400	250	Tournament(4)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		119.06666666666666	10.41451977876187
+400	250	Tournament(4)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		91.13333333333334	3.7481847458321584
+400	250	Tournament(4)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		89.2	2.6633312473917563
+400	250	Tournament(4)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		89.66666666666667	2.0709632756012097
+400	250	Tournament(4)	Recombination 2 - One cute	0.2	Insert	0.2		119.0	11.024215769538136
+400	250	Tournament(4)	Recombination 2 - One cute	0.2	Insert	0.4		115.86666666666666	12.371292935214528
+400	250	Tournament(4)	Recombination 2 - One cute	0.2	Insert	0.5		111.06666666666666	8.744267963770449
+400	250	Tournament(4)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		123.13333333333334	10.528479894499913
+400	250	Tournament(4)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		120.73333333333333	10.65186472981244
+400	250	Tournament(4)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		120.33333333333333	9.703378563961913
+400	250	Tournament(4)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		91.2	3.4097898273451785
+400	250	Tournament(4)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		90.13333333333334	2.246973272847029
+400	250	Tournament(4)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		89.73333333333333	2.954469307488046
+400	250	Tournament(4)	Recombination 2 - One cute	0.3	Insert	0.2		118.0	10.557777543908882
+400	250	Tournament(4)	Recombination 2 - One cute	0.3	Insert	0.4		115.2	9.36091163651632
+400	250	Tournament(4)	Recombination 2 - One cute	0.3	Insert	0.5		109.4	10.407048893258196
+400	250	Tournament(4)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		124.26666666666667	10.440093656455172
+400	250	Tournament(4)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		119.6	10.84927032876712
+400	250	Tournament(4)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		116.06666666666666	11.342937107390759
+400	250	Tournament(4)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		91.93333333333334	3.2034703404623897
+400	250	Tournament(4)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		89.46666666666667	3.3439829877291865
+400	250	Tournament(4)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		88.8	2.1664102412362563
+400	250	Tournament(4)	Recombination 3 - order 1	0.1	Insert	0.2		114.06666666666666	9.21568710888607
+400	250	Tournament(4)	Recombination 3 - order 1	0.1	Insert	0.4		111.8	7.837516613485847
+400	250	Tournament(4)	Recombination 3 - order 1	0.1	Insert	0.5		108.8	8.026622369755954
+400	250	Tournament(4)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		115.13333333333334	11.462208435647216
+400	250	Tournament(4)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		116.2	8.919641248391104
+400	250	Tournament(4)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		116.06666666666666	10.93597529055162
+400	250	Tournament(4)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		91.86666666666666	4.129030017920539
+400	250	Tournament(4)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		90.06666666666666	2.943165340619215
+400	250	Tournament(4)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		89.46666666666667	2.6799668322989034
+400	250	Tournament(4)	Recombination 3 - order 1	0.2	Insert	0.2		115.2	7.9933305532383265
+400	250	Tournament(4)	Recombination 3 - order 1	0.2	Insert	0.4		108.26666666666667	9.739723929466493
+400	250	Tournament(4)	Recombination 3 - order 1	0.2	Insert	0.5		110.73333333333333	9.87229569159181
+400	250	Tournament(4)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		115.4	10.883014288330232
+400	250	Tournament(4)	Recombination 3 - order 1	0.2	Swap Mutation 	0.4		112.73333333333333	10.03305647458551
+400	250	Tournament(4)	Recombination 3 - order 1	0.2	Swap Mutation 	0.5		110.26666666666667	9.276972686292778
+400	250	Tournament(4)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.2		92.06666666666666	3.595676416043147
+400	250	Tournament(4)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.4		90.0	2.875181153713043
+400	250	Tournament(4)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.5		91.26666666666667	3.1191166840772238
+400	250	Tournament(4)	Recombination 3 - order 1	0.3	Insert	0.2		111.26666666666667	8.81639886171723
+400	250	Tournament(4)	Recombination 3 - order 1	0.3	Insert	0.4		106.0	7.37563556583431
+400	250	Tournament(4)	Recombination 3 - order 1	0.3	Insert	0.5		105.4	7.556895306054376
+400	250	Tournament(4)	Recombination 3 - order 1	0.3	Swap Mutation 	0.2		113.2	10.06114638928719
+400	250	Tournament(4)	Recombination 3 - order 1	0.3	Swap Mutation 	0.4		110.2	8.348253310323862
+400	250	Tournament(4)	Recombination 3 - order 1	0.3	Swap Mutation 	0.5		110.53333333333333	9.135036337579008
+400	250	Tournament(5)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		91.4	4.071035904205874
+400	250	Tournament(5)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		90.26666666666667	2.954469307488046
+400	250	Tournament(5)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		89.4	2.4846193538112296
+400	250	Tournament(5)	PMX	0.1	Insert	0.2		123.26666666666667	13.832168625667085
+400	250	Tournament(5)	PMX	0.1	Insert	0.4		117.2	12.655433615645098
+400	250	Tournament(5)	PMX	0.1	Insert	0.5		114.13333333333334	11.134730451260246
+400	250	Tournament(5)	PMX	0.1	Swap Mutation 	0.2		127.8	15.91938022244166
+400	250	Tournament(5)	PMX	0.1	Swap Mutation 	0.4		122.6	11.467635617975777
+400	250	Tournament(5)	PMX	0.1	Swap Mutation 	0.5		117.8	9.554754488386047
+400	250	Tournament(5)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		92.33333333333333	3.309917756615042
+400	250	Tournament(5)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		90.0	3.011090610836324
+400	250	Tournament(5)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		90.2	2.7006172134038784
+400	250	Tournament(5)	PMX	0.2	Insert	0.2		123.53333333333333	12.823762665024994
+400	250	Tournament(5)	PMX	0.2	Insert	0.4		115.06666666666666	12.865803079827117
+400	250	Tournament(5)	PMX	0.2	Insert	0.5		115.86666666666666	11.943571027497969
+400	250	Tournament(5)	PMX	0.2	Swap Mutation 	0.2		125.2	12.926458653990785
+400	250	Tournament(5)	PMX	0.2	Swap Mutation 	0.4		121.0	10.951407824263205
+400	250	Tournament(5)	PMX	0.2	Swap Mutation 	0.5		120.13333333333334	13.593462480995127
+400	250	Tournament(5)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		92.4	3.9123735336323233
+400	250	Tournament(5)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		90.46666666666667	2.95221197673127
+400	250	Tournament(5)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		89.66666666666667	2.586288632169444
+400	250	Tournament(5)	PMX	0.3	Insert	0.2		119.13333333333334	10.154582982848462
+400	250	Tournament(5)	PMX	0.3	Insert	0.4		114.8	11.40292360172016
+400	250	Tournament(5)	PMX	0.3	Insert	0.5		112.8	9.389355675444403
+400	250	Tournament(5)	PMX	0.3	Swap Mutation 	0.2		125.06666666666666	12.740835486297158
+400	250	Tournament(5)	PMX	0.3	Swap Mutation 	0.4		120.6	12.76610094481997
+400	250	Tournament(5)	PMX	0.3	Swap Mutation 	0.5		116.26666666666667	10.567034693906432
+400	250	Tournament(5)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		91.6	3.843609414773221
+400	250	Tournament(5)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		89.2	2.1664102412362567
+400	250	Tournament(5)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		89.73333333333333	2.719477073916153
+400	250	Tournament(5)	Recombination 2 - One cute	0.1	Insert	0.2		118.93333333333334	11.357621034158322
+400	250	Tournament(5)	Recombination 2 - One cute	0.1	Insert	0.4		114.93333333333334	12.958737935805669
+400	250	Tournament(5)	Recombination 2 - One cute	0.1	Insert	0.5		115.26666666666667	10.08607400770433
+400	250	Tournament(5)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		127.26666666666667	10.01975825833915
+400	250	Tournament(5)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		119.13333333333334	11.929608357173992
+400	250	Tournament(5)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		116.33333333333333	12.253797597298382
+400	250	Tournament(5)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		91.4	3.0615900008546757
+400	250	Tournament(5)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		90.66666666666667	3.025814858109392
+400	250	Tournament(5)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		89.6	2.7999999999999994
+400	250	Tournament(5)	Recombination 2 - One cute	0.2	Insert	0.2		118.93333333333334	11.862920757085455
+400	250	Tournament(5)	Recombination 2 - One cute	0.2	Insert	0.4		115.8	14.136006036595582
+400	250	Tournament(5)	Recombination 2 - One cute	0.2	Insert	0.5		113.06666666666666	12.78262709913559
+400	250	Tournament(5)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		125.8	13.02663937219931
+400	250	Tournament(5)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		117.6	9.243376006633076
+400	250	Tournament(5)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		120.6	12.341258714842121
+400	250	Tournament(5)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		90.86666666666666	2.9522119767312702
+400	250	Tournament(5)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		90.26666666666667	2.669997919266772
+400	250	Tournament(5)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		90.06666666666666	2.4485823562942604
+400	250	Tournament(5)	Recombination 2 - One cute	0.3	Insert	0.2		119.73333333333333	11.918985788322018
+400	250	Tournament(5)	Recombination 2 - One cute	0.3	Insert	0.4		117.6	10.190191362285598
+400	250	Tournament(5)	Recombination 2 - One cute	0.3	Insert	0.5		115.06666666666666	12.782627099135594
+400	250	Tournament(5)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		128.66666666666666	9.582391258043172
+400	250	Tournament(5)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		119.06666666666666	9.794329425177045
+400	250	Tournament(5)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		117.4	10.458170649465101
+400	250	Tournament(5)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		91.13333333333334	3.9558676531058112
+400	250	Tournament(5)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		89.66666666666667	2.9249881291307083
+400	250	Tournament(5)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		88.4	2.6532998322843198
+400	250	Tournament(5)	Recombination 3 - order 1	0.1	Insert	0.2		113.0	11.204165891905266
+400	250	Tournament(5)	Recombination 3 - order 1	0.1	Insert	0.4		110.46666666666667	9.76638224841841
+400	250	Tournament(5)	Recombination 3 - order 1	0.1	Insert	0.5		111.06666666666666	9.983096825245271
+400	250	Tournament(5)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		123.4	10.734989520255713
+400	250	Tournament(5)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		115.13333333333334	9.942277852126688
+400	250	Tournament(5)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		112.46666666666667	8.55855647226148
+400	250	Tournament(5)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		90.53333333333333	3.18049611783375
+400	250	Tournament(5)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		89.13333333333334	2.617038190185403
+400	250	Tournament(5)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		89.46666666666667	2.4184476196289397
+400	250	Tournament(5)	Recombination 3 - order 1	0.2	Insert	0.2		113.2	10.21893667005852
+400	250	Tournament(5)	Recombination 3 - order 1	0.2	Insert	0.4		106.53333333333333	7.67564691446627
+400	250	Tournament(5)	Recombination 3 - order 1	0.2	Insert	0.5		107.66666666666667	9.034501769451495
+400	250	Tournament(5)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		119.26666666666667	10.563879758666111
+400	250	Tournament(5)	Recombination 3 - order 1	0.2	Swap Mutation 	0.4		113.73333333333333	6.485539470408165
+400	250	Tournament(5)	Recombination 3 - order 1	0.2	Swap Mutation 	0.5		115.73333333333333	8.078503711840591
+400	250	Tournament(5)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.2		91.6	3.4409301068170515
+400	250	Tournament(5)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.4		89.73333333333333	2.7680719322702267
+400	250	Tournament(5)	Recombination 3 - order 1	0.3	Mutation 2 - Inversion Mutation 	0.5		89.66666666666667	2.879043050891892
+400	250	Tournament(5)	Recombination 3 - order 1	0.3	Insert	0.2		110.2	8.137976816547626
+400	250	Tournament(5)	Recombination 3 - order 1	0.3	Insert	0.4		105.8	7.700216447174283
+400	250	Tournament(5)	Recombination 3 - order 1	0.3	Insert	0.5		108.4	6.897342483401365
+400	250	Tournament(5)	Recombination 3 - order 1	0.3	Swap Mutation 	0.2		113.0	8.32265983124786
+400	250	Tournament(5)	Recombination 3 - order 1	0.3	Swap Mutation 	0.4		110.2	7.180529228406496
+400	250	Tournament(5)	Recombination 3 - order 1	0.3	Swap Mutation 	0.5		111.73333333333333	8.094991592885622
+400	500	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.2		89.6	2.444040370643115
+400	500	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.4		89.46666666666667	2.4184476196289397
+400	500	Tournament(2)	PMX	0.1	Mutation 2 - Inversion Mutation 	0.5		102.86666666666666	4.3721339818852245
+400	500	Tournament(2)	PMX	0.1	Insert	0.2		117.0	11.544118271512408
+400	500	Tournament(2)	PMX	0.1	Insert	0.4		113.46666666666667	10.96580543730778
+400	500	Tournament(2)	PMX	0.1	Insert	0.5		115.53333333333333	10.310943485227506
+400	500	Tournament(2)	PMX	0.1	Swap Mutation 	0.2		124.73333333333333	10.614246191898047
+400	500	Tournament(2)	PMX	0.1	Swap Mutation 	0.4		118.93333333333334	7.567180599286776
+400	500	Tournament(2)	PMX	0.1	Swap Mutation 	0.5		111.53333333333333	7.333636357375667
+400	500	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.2		90.8	2.9028721409436313
+400	500	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.4		91.06666666666666	3.5301872786329946
+400	500	Tournament(2)	PMX	0.2	Mutation 2 - Inversion Mutation 	0.5		117.2	7.072953178599917
+400	500	Tournament(2)	PMX	0.2	Insert	0.2		114.53333333333333	11.241984799056713
+400	500	Tournament(2)	PMX	0.2	Insert	0.4		110.4	12.026637102698327
+400	500	Tournament(2)	PMX	0.2	Insert	0.5		116.6	10.483638045386087
+400	500	Tournament(2)	PMX	0.2	Swap Mutation 	0.2		119.6	12.48358922746179
+400	500	Tournament(2)	PMX	0.2	Swap Mutation 	0.4		114.86666666666666	11.703940457052154
+400	500	Tournament(2)	PMX	0.2	Swap Mutation 	0.5		113.53333333333333	9.711619615468658
+400	500	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.2		90.53333333333333	3.9977771601506524
+400	500	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.4		94.46666666666667	5.3086930804315875
+400	500	Tournament(2)	PMX	0.3	Mutation 2 - Inversion Mutation 	0.5		136.13333333333333	8.515606587645744
+400	500	Tournament(2)	PMX	0.3	Insert	0.2		115.93333333333334	7.7885956514780155
+400	500	Tournament(2)	PMX	0.3	Insert	0.4		115.06666666666666	9.629584045476154
+400	500	Tournament(2)	PMX	0.3	Insert	0.5		123.8	9.843441132720475
+400	500	Tournament(2)	PMX	0.3	Swap Mutation 	0.2		117.26666666666667	13.21093822894078
+400	500	Tournament(2)	PMX	0.3	Swap Mutation 	0.4		112.93333333333334	11.578524181527724
+400	500	Tournament(2)	PMX	0.3	Swap Mutation 	0.5		115.13333333333334	10.310943485227506
+400	500	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.2		90.0	3.0983866769659336
+400	500	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.4		89.06666666666666	2.7680719322702254
+400	500	Tournament(2)	Recombination 2 - One cute	0.1	Mutation 2 - Inversion Mutation 	0.5		100.6	4.680455818258162
+400	500	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.2		117.33333333333333	8.59974159818512
+400	500	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.4		109.93333333333334	9.330713918142719
+400	500	Tournament(2)	Recombination 2 - One cute	0.1	Insert	0.5		111.53333333333333	9.84795523051472
+400	500	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.2		121.13333333333334	13.101484224655193
+400	500	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.4		115.66666666666667	10.85766498326822
+400	500	Tournament(2)	Recombination 2 - One cute	0.1	Swap Mutation 	0.5		124.46666666666667	9.362098530184827
+400	500	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.2		90.66666666666667	3.438345855527368
+400	500	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.4		90.66666666666667	3.025814858109392
+400	500	Tournament(2)	Recombination 2 - One cute	0.2	Mutation 2 - Inversion Mutation 	0.5		105.26666666666667	4.774469138611701
+400	500	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.2		113.6	10.358893119762683
+400	500	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.4		107.8	8.154344445345274
+400	500	Tournament(2)	Recombination 2 - One cute	0.2	Insert	0.5		114.4	9.597221820228325
+400	500	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.2		120.8	12.998461447417537
+400	500	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.4		116.53333333333333	11.218239117120339
+400	500	Tournament(2)	Recombination 2 - One cute	0.2	Swap Mutation 	0.5		121.06666666666666	10.298651475908011
+400	500	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.2		91.86666666666666	3.138293945583952
+400	500	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.4		91.13333333333334	3.169998247458331
+400	500	Tournament(2)	Recombination 2 - One cute	0.3	Mutation 2 - Inversion Mutation 	0.5		110.26666666666667	5.88179866669674
+400	500	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.2		115.53333333333333	9.43303886466192
+400	500	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.4		109.6	8.26881692464728
+400	500	Tournament(2)	Recombination 2 - One cute	0.3	Insert	0.5		109.4	8.345058418010025
+400	500	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.2		121.33333333333333	12.114270739733183
+400	500	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.4		114.73333333333333	10.006442369238375
+400	500	Tournament(2)	Recombination 2 - One cute	0.3	Swap Mutation 	0.5		125.06666666666666	10.049654499312679
+400	500	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.2		90.26666666666667	2.815828277592384
+400	500	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.4		91.2	2.902872140943632
+400	500	Tournament(2)	Recombination 3 - order 1	0.1	Mutation 2 - Inversion Mutation 	0.5		110.6	4.565084884205333
+400	500	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.2		109.66666666666667	8.595864638818417
+400	500	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.4		106.66666666666667	8.235424835563872
+400	500	Tournament(2)	Recombination 3 - order 1	0.1	Insert	0.5		118.06666666666666	7.27522431880206
+400	500	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.2		113.33333333333333	7.8711851430109006
+400	500	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.4		114.73333333333333	10.538606275130606
+400	500	Tournament(2)	Recombination 3 - order 1	0.1	Swap Mutation 	0.5		130.46666666666667	7.017755259973726
+400	500	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.2		90.8	3.1240998703626612
+400	500	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.4		106.53333333333333	3.827386691841952
+400	500	Tournament(2)	Recombination 3 - order 1	0.2	Mutation 2 - Inversion Mutation 	0.5		129.4	6.2
+400	500	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.2		104.4	7.922962408930976
+400	500	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.4		113.0	6.016643582596529
+400	500	Tournament(2)	Recombination 3 - order 1	0.2	Insert	0.5		128.93333333333334	6.276587891167902
+400	500	Tournament(2)	Recombination 3 - order 1	0.2	Swap Mutation 	0.2		109.2	8.49470423263812

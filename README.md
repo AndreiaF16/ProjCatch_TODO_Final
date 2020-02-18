@@ -1,1 +1,3 @@
-# ProjCatch_TODO_Final
+# ProjCatch
+
+Projecto da disciplina de Inteligência Artificial
